@@ -23,12 +23,13 @@
       <a href="mailto:wjhwang0503@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjhwang0503@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
       <a href="mailto:wh42003@uga.edu" target="_blank"><img src="https://img.shields.io/badge/wh42003@uga.edu-EA4335?style=flat-square&logo=mail&logoColor=red"/></a>
     </div>
-    
-    <p>
-    A driven data science student with real-world project experiences using R, Python, SQL, and JAVA. Interested in the field of Big Data and Machine Learning. Seeking various experiences in the field of data science!
-    <br/><br/>
-    </p>
 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Introducing about me </h2> <br>
+    A driven data science student with real-world project experiences using R, Python, SQL, and JAVA. Interested in the field of Big Data and Machine Learning. Seeking various experiences in the field of data science!
+    </div>
+    
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Easy Contact me </h2> <br> 
