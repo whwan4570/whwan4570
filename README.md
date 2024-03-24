@@ -73,9 +73,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Coding Usage </h2> <br>
     <canvas id="codingUsageChart" style="width:100%;max-width:600px"></canvas>
+     <img src="/Users/joon/Downloads/usage.png" alt="Coding Usage">
 </div>
-
-<img src="/Users/joon/Downloads/usage.png" alt="Coding Usage">
 
 </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗣 Language Proficiency </h2> <br>
