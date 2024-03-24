@@ -15,16 +15,14 @@
           <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           </div>
-        
-
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2> <br>
-    <p>
+    <div  align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
       <a href="https://www.linkedin.com/in/wonjoon-hwang-0496ba277/" target="_blank"><img src="https://img.shields.io/badge/Wonjoon_Hwang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
       <a href="mailto:wjhwang0503@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjhwang0503@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
       <a href="mailto:wh42003@uga.edu" target="_blank"><img src="https://img.shields.io/badge/wh42003@uga.edu-EA4335?style=flat-square&logo=mail&logoColor=red"/></a>
-    </p>
+    </div>
     
     <p>
     A driven data science student with real-world project experiences using R, Python, SQL, and JAVA. Interested in the field of Big Data and Machine Learning. Seeking various experiences in the field of data science!
