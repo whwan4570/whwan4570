@@ -73,7 +73,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Coding Usage </h2> <br>
     <canvas id="codingUsageChart" style="width:100%;max-width:600px"></canvas>
-     <img src="/Users/joon/Downloads/usage.png" alt="Coding Usage">
+     <img width="1260" alt="usage" src="https://github.com/whwan4570/whwan4570/assets/110270444/633cb40d-9853-4e08-9ede-f829eb08bf17">
 </div>
 
 </div>
