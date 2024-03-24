@@ -42,7 +42,23 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=whwan4570&custom_title=whwan4570's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whwan4570&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗣 Language Proficiency </h2> <br>
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <th style="border: 1px solid #d8dee4; padding: 8px; text-align: left;">Language</th>
+            <th style="border: 1px solid #d8dee4; padding: 8px; text-align: left;">Proficiency Level</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #d8dee4; padding: 8px;">English</td>
+            <td style="border: 1px solid #d8dee4; padding: 8px;">Fluent</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #d8dee4; padding: 8px;">Korean</td>
+            <td style="border: 1px solid #d8dee4; padding: 8px;">Native</td>
+        </tr>
+        <!-- Add more languages here -->
+    </table>
+</div>
     </div>
