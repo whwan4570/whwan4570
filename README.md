@@ -75,7 +75,7 @@
     <canvas id="codingUsageChart" style="width:100%;max-width:600px"></canvas>
 </div>
 
-![Coding Usage Chart](Downloads/ugsage.png)
+<img src="/Users/joon/Downloads/usage.png" alt="Coding Usage">
 
 </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗣 Language Proficiency </h2> <br>
