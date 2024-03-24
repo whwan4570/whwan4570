@@ -15,9 +15,23 @@
           <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           </div>
+        
+    ### Nice way to meet me
+<p>
+  <a href="https://www.linkedin.com/in/wonjoon-hwang-0496ba277/" target="_blank"><img src="https://img.shields.io/badge/Wonjoon_Hwang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:wjhwang0503@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjhwang0503@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:wh42003@uga.edu" target="_blank"><img src="https://img.shields.io/badge/wh42003@uga.edu-EA4335?style=flat-square&logo=mail&logoColor=red"/></a>
+</p>
+
+<p>
+A driven data science student with real-world project experiences using R, Python, SQL, and JAVA. Interested in the field of Big Data and Machine Learning. Seeking various experiences in the field of data science!
+<br/><br/>
+</p>
+
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Easy Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:whwan4570@uga.edu> <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=mail&logoColor=white&link=mailto:whwan4570@uga.edu"> </a>
          <a href=mailto:wjhwang0503@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjhwang0503@gmail.com"> </a>
          <a href=https://www.instagram.com/won_jxxn_/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/won_jxxn_/"> </a>
