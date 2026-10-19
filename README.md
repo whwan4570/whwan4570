@@ -1,28 +1,31 @@
 # Wonjoon Hwang
 
-**Machine Learning · Data Engineering**  
+**Data Engineering · Machine Learning · Applied AI**  
 M.S. Data Science, University of Washington · Expected March 2027 · Seattle, WA
 
-[Portfolio](https://whwan4570.github.io/) · [LinkedIn](https://www.linkedin.com/in/wonjoon-hwang-0496ba277/) · [Email](mailto:wjhwang0503@gmail.com)
+**Seeking 2027 new-grad roles · Available March 2027 · Open to relocation across the U.S.**
+
+[Portfolio](https://whwan4570.github.io/) · [Résumé PDF](https://whwan4570.github.io/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/wonjoon-hwang-0496ba277/) · [Email](mailto:wjhwang0503@gmail.com)
 
 ![Data pipelines and model evaluation](assets/ml-data-banner.jpg)
 
-I work across data preparation, model development, and evaluation. My recent work includes a Databricks crop-yield forecasting project, federated ML research, and an analytics dashboard built on more than 900,000 public-safety records.
+I build data pipelines, ML workflows, and applications. My work spans Python, SQL, Spark, and Databricks data engineering, production data-quality fixes, distributed ML research, and app/AI agent development.
 
 ## Selected work
 
 | Project | My work and results |
 | --- | --- |
-| **[TerraCast](https://github.com/whwan4570/DataBricks_Hackathon_UW)** · Databricks × UW hackathon, **1st place** | Led the data pipeline and predictive modeling for a team crop-yield project using Spark, Delta Lake, and MLflow. A LightGBM/Random Forest ensemble reached **0.88 mean R²** in county-held-out five-fold cross-validation. |
-| **[WatchDawg](https://github.com/whwan4570/Watchdawg_app)** · Seattle public-safety analytics | Processed **900K+ records** with Python and SQL; built geospatial and time-series views and daily incident-count forecasts for a team dashboard. |
-| **[EY Clean Water Supply](https://github.com/whwan4570/EY2026-Optimizing-Clean-Water-Supply)** · Geospatial ML | Integrated satellite, climate, and hydrology features to model water-quality targets; used spatially aware validation to test generalization across regions. |
+| **[TerraCast](https://github.com/whwan4570/DataBricks_Hackathon_UW)** · Team hackathon project, **1st place** | Built data pipelines and contributed to LightGBM/Random Forest modeling and evaluation. **Historical county-held-out 5-fold CV: 0.8815 mean R²**; a separate later walk-forward time CV recorded **0.8483**. [Methodology and audit](https://whwan4570.github.io/terracast-evaluation.html). |
+| **[Darin](https://whwan4570.github.io/#darin-title)** · Founder / App & AI Agent Developer | Develop the React Native/TypeScript app and AI agent workflows for a baby-care app, including voice input, five-language localization, and Supabase integration. **iOS TestFlight beta** · [Try the beta](https://testflight.apple.com/join/MmKQwX1b). Source code is private. |
+| **[WatchDawg](https://github.com/whwan4570/Watchdawg_app)** · Seattle public-safety analytics | Built Python/SQL workflows over **900K+ records** and Dash/Plotly geospatial and time-series views. The public dashboard uses **SQLite date-range queries** and compact data types. |
+| **[EY Clean Water Supply](https://github.com/whwan4570/EY2026-Optimizing-Clean-Water-Supply)** · Geospatial ML | Integrated **9,319 observations and 205 features**; evaluated multi-stage models with spatial cross-validation. **Final leaderboard rank: 66 · R²: 0.4259**, separate from local CV. |
 | **[NFL player trajectories](https://github.com/whwan4570/NFL-Prediction-Model-Comparison)** · Sequence modeling | Built a PyTorch GRU encoder-decoder and compared its trajectory predictions with a TensorFlow implementation. |
 
-## Research and fellowship
+## Experience, research, and fellowship
 
-- **Federated and distributed ML research, University of Georgia:** Implemented FedSVD and FedPower prototypes; evaluated behavior under non-IID data and studied communication and computation trade-offs.
-- **Databricks Student Fellow:** Student fellowship focused on building and explaining data and AI workflows. This is separate from the TerraCast hackathon project.
+- **UW SEAL · Research Intern:** Support early-stage research through technical investigation, project review, and experimental validation.
+- **Translation Commons · Volunteer Data Engineer:** Shipped **21 production data fixes across nine language groups**, surfaced **95 hierarchy inconsistencies**, and added **nine unit tests**.
+- **Databricks Student Fellows Program · Student Fellow:** Selected student fellowship focused on building and presenting data/AI workflows and reusable demos. Presented TerraCast at Data + AI Summit 2026. This is a fellowship program.
+- **University of Georgia · Federated & Distributed ML Research:** Implemented and evaluated FedSVD and FedPower with non-IID clients, studying convergence and communication/computation trade-offs.
 
-**Core tools:** Python, SQL, Spark/PySpark, Databricks, Delta Lake, MLflow, pandas, scikit-learn, LightGBM, PyTorch, TensorFlow.
-
-For project details and other work, see my **[portfolio](https://whwan4570.github.io/)**.
+**Core tools:** Python, SQL, Spark/PySpark, Databricks, Delta Lake, MLflow, pandas, scikit-learn, LightGBM, PyTorch, TensorFlow, TypeScript, React Native.
